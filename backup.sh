@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Backup started"
+echo "Backup started successfully"
